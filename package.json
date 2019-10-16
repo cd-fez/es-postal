@@ -1,11 +1,11 @@
 {
   "name": "es-postal",
   "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-  "version": "2.0.5-custom-aia-patch2",
+  "version": "2.0.5-custom-aia-patch3",
   "homepage": "http://github.com/cd-fez/es-postal.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cd-fez/es-postal.git"
+    "url": "git+https://github.com/cd-fez/es-postal.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
@@ -104,9 +104,7 @@
   "engines": {
     "node": ">=0.4.0"
   },
-  "dependencies": {
-    "lodash": "^4.12.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "^1.4.1",
     "express": "^4.12.3",
