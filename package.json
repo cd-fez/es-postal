@@ -1,11 +1,11 @@
 {
   "name": "es-postal",
   "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-  "version": "2.0.5-custom-aia-patch1",
-  "homepage": "http://github.com/cd-fez/es-ckeditor.git",
+  "version": "2.0.5-custom-aia-patch2",
+  "homepage": "http://github.com/cd-fez/es-postal.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cd-fez/es-ckeditor.git"
+    "url": "git+https://github.com/cd-fez/es-postal.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
